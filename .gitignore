@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos da Olist (baixar do Kaggle, não versionar)
+*.csv
+data/
